@@ -9,7 +9,7 @@ namespace Exercicio_Inverso
             int []numeros = new int [15];
 
             Console.WriteLine("Números");
-            Console.WriteLine("-------------------");
+            Console.WriteLine("-----------------------");
 
             for(var contador = 0; contador <15; contador++){
                 Console.WriteLine($"Informe o {contador+1}º número");
